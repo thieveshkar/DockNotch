@@ -10,11 +10,13 @@ Designed for simplicity, speed, and a modern desktop aesthetic.
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="./Demo/Dock_Notch.mp4" controls width="720"></video>
+  <a href="./Demo/Dock_Notch.mp4">
+    <img src="./Demo/Demo_DockNotch.gif" alt="Watch DockNotch Demo" width="720"/>
+  </a>
 </p>
 
 <p align="center">
-  <em>DockNotch running on Windows — showcasing media controls, battery status, and quick access features.</em>
+  <em>Click the GIF to watch the full DockNotch demo video.</em>
 </p>
 
 ---
