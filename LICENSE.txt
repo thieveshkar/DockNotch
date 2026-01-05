@@ -1,0 +1,9 @@
+DockNotch – Proprietary Software License
+
+Copyright © 2026 Thieveshkar Kalaichelvan. All rights reserved.
+
+This software is provided for personal use only.
+You may not copy, modify, redistribute, reverse engineer,
+decompile, or claim this software as your own.
+
+Unauthorized distribution or modification is strictly prohibited.
