@@ -3,33 +3,45 @@
 DockNotch is a lightweight Windows utility that brings a sleek, functional **dock-style notch experience** to your desktop.  
 Access essential controls like media playback, battery status, quick drives, and notes — all from a clean, collapsible notch.
 
-> Designed for simplicity, speed, and a modern desktop aesthetic.
+Designed for simplicity, speed, and a modern desktop aesthetic.
+
+---
+
+## 🎥 Demo Video
+
+<p align="center">
+  <video src="./Demo/Dock_Notch.mp4" controls width="720"></video>
+</p>
+
+<p align="center">
+  <em>DockNotch running on Windows — showcasing media controls, battery status, and quick access features.</em>
+</p>
 
 ---
 
 ## 🚀 Features
 
-- 🎵 **Media Player**  
-  Control Spotify, YouTube, and other media instantly.
+### 🎵 Media Player
+Control Spotify, YouTube, and other media instantly.
 
-- ⚡ **Battery Monitor**  
-  Dynamic charging animations and low-battery alerts.
+### ⚡ Battery Monitor
+Dynamic charging animations and low-battery alerts.
 
-- 📂 **Quick Drive Access**  
-  Instantly open commonly used drives such as C: and D:.
+### 📂 Quick Drive Access
+Instantly open commonly used drives such as C: and D:.
 
-- 📝 **Quick Notes**  
-  Jot down thoughts without interrupting your workflow.
+### 📝 Quick Notes
+Jot down thoughts without interrupting your workflow.
 
 ---
 
 ## ⬇️ Download
 
-**Latest Version:** v1.0.0  
+**Latest Version:** v1.0.0
 
 👉 **[Download DockNotch for Windows](https://github.com/thieveshkar/DockNotch/releases/latest)**
 
-> If the download does not start automatically, click **Releases** on the right sidebar and download the latest `.exe` file.
+If the download does not start automatically, click **Releases** on the right sidebar and download the latest `.exe` file.
 
 ---
 
@@ -48,9 +60,9 @@ No part of this application may be copied, modified, redistributed, reverse engi
 
 This repository is used **only for public distribution** of DockNotch.
 
-- ❌ Source code is not public
-- ❌ Forking does **not** grant rights to the software
-- ✅ Official releases are published **only** by the author
+- ❌ Source code is not public  
+- ❌ Forking does not grant any rights to the software  
+- ✅ Official releases are published only by the author  
 
 Any third-party reuploads or claims of authorship are unauthorized.
 
@@ -59,4 +71,3 @@ Any third-party reuploads or claims of authorship are unauthorized.
 ## ℹ️ About
 
 DockNotch is developed and maintained independently by the author as a proprietary Windows desktop utility.
-
