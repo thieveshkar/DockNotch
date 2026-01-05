@@ -48,7 +48,7 @@ No part of this application may be copied, modified, redistributed, reverse engi
 
 This repository is used **only for public distribution** of DockNotch.
 
-- ❌ Source code is **not**公开
+- ❌ Source code is not public
 - ❌ Forking does **not** grant rights to the software
 - ✅ Official releases are published **only** by the author
 
@@ -59,3 +59,4 @@ Any third-party reuploads or claims of authorship are unauthorized.
 ## ℹ️ About
 
 DockNotch is developed and maintained independently by the author as a proprietary Windows desktop utility.
+
