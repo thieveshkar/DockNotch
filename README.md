@@ -1,25 +1,61 @@
-# DockNotch for Windows 💻 ✨
+# DockNotch for Windows 💻✨
 
-**DockNotch** brings the sleek, functional "Notch" experience to your Windows desktop. Access media controls, monitor battery status, and launch drives—all from a beautiful, collapsible notch.
+DockNotch is a lightweight Windows utility that brings a sleek, functional **dock-style notch experience** to your desktop.  
+Access essential controls like media playback, battery status, quick drives, and notes — all from a clean, collapsible notch.
 
-![DockNotch](https://via.placeholder.com/800x400?text=DockNotch+Preview+Image) 
-*(Note: You can replace this link with a real screenshot later!)*
-
-## 🚀 Features
-- **🎵 Media Player:** Control Spotify, YouTube, and more with a click.
-- **⚡ Battery Monitor:** Dynamic charging animations and low-battery alerts.
-- **📂 Quick Drives:** Access your C: and D: drives instantly.
-- **📝 Quick Notes:** Jot down thoughts on the fly.
-
-## ⬇️ Download
-Latest Version: **v1.0.0**
-
-[**Download DockNotch Setup.exe**](https://github.com/YOUR_USERNAME/dock-notch-win/releases/latest)
-*(Click "Releases" on the right sidebar if the link above isn't set up yet!)*
-
-## 👨‍💻 Author
-Built by **Thieveshkar Kalaichelvan**.
-Copyright © 2026. All Rights Reserved.
+> Designed for simplicity, speed, and a modern desktop aesthetic.
 
 ---
-*This repository hosts the distribution files for DockNotch. The source code is closed and proprietary.*
+
+## 🚀 Features
+
+- 🎵 **Media Player**  
+  Control Spotify, YouTube, and other media instantly.
+
+- ⚡ **Battery Monitor**  
+  Dynamic charging animations and low-battery alerts.
+
+- 📂 **Quick Drive Access**  
+  Instantly open commonly used drives such as C: and D:.
+
+- 📝 **Quick Notes**  
+  Jot down thoughts without interrupting your workflow.
+
+---
+
+## ⬇️ Download
+
+**Latest Version:** v1.0.0  
+
+👉 **[Download DockNotch for Windows](https://github.com/thieveshkar/DockNotch/releases/latest)**
+
+> If the download does not start automatically, click **Releases** on the right sidebar and download the latest `.exe` file.
+
+---
+
+## 👨‍💻 Author & Ownership
+
+DockNotch is an **original software application** created and owned by **Thieveshkar Kalaichelvan**.
+
+© 2026 Thieveshkar Kalaichelvan. All rights reserved.
+
+This software is **closed-source and proprietary**.  
+No part of this application may be copied, modified, redistributed, reverse engineered, or claimed as original work by others without explicit written permission from the author.
+
+---
+
+## 🔒 Source Code Notice
+
+This repository is used **only for public distribution** of DockNotch.
+
+- ❌ Source code is **not**公开
+- ❌ Forking does **not** grant rights to the software
+- ✅ Official releases are published **only** by the author
+
+Any third-party reuploads or claims of authorship are unauthorized.
+
+---
+
+## ℹ️ About
+
+DockNotch is developed and maintained independently by the author as a proprietary Windows desktop utility.
